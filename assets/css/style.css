@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    padding: 10px 20px;
+    background-color: #302c2c;
+  }
+
+  .boxed {
+      
+  }
+  
+  header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+  }
+  header a {
+    text-decoration: none;
+    color: #fce138;
+  }
+  
+  header nav {
+    float: right;
+    margin: 7px 0;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    padding: 28px 43px;
+    background-color: #302c2c;
+  }
+
+  .boxed {
+      border: 1px solid green;
+  }
+  
+  header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+  }
+  header a {
+    text-decoration: none;
+    color: #fce138;
+  }
+  
+  header nav {
+    float: right;
+    margin: 7px 0;
+  }
+  
+  header nav ul li {
+    display: inline;
+  }
+  
+  header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+  }
+
+  footer {
+    background: #ffffff;
+    width: 100%;
+    padding: 20px 16px;
+  }
+  
+  footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+  }
+  footer nav {
+    float: right;
+    margin: 7px 0;
+  }
+  
+  footer nav ul li {
+    display: inline;
+  }
+  
+  footer nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+  }
+  section {
+    padding: 60px;
+  }
+  .hero {
+    background-image: url("../images/Generic-Banner-07-Web-App-Developer.png");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+.intro {
+    text-align: left;
+}
+
+.intro p {
+    text-align: right;
+}
+   
+  
+  header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+  }
+
+  footer {
+    background: #ffffff;
+    width: 100%;
+    padding: 20px 16px;
+  }
+  
+  footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+  }
+  footer nav {
+    float: right;
+    margin: 7px 0;
+  }
+  
+  footer nav ul li {
+    display: inline;
+  }
+  
+  footer nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+  }
+  section {
+    padding: 60px;
+  }
+  .hero {
+      background-image: url("C:\Users\merre\OneDrive\Desktop\projects\professional-portfolio\assets\images\generic+banner.jpg");
+      height: 600px;
+      background-size: cover;
+      background-position: center;
+      position: relative;
+  }
+.intro {
+    text-align: left;
+}
+
+.intro p {
+    text-align: right;
+}
+   
