@@ -1,7 +1,7 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   }
 
 body {
@@ -12,7 +12,6 @@ body {
 header {
     padding: 30px 45px;
     background-color: rgb(39, 37, 37);
-    
   }
 
 header h1 {
@@ -57,6 +56,7 @@ footer nav {
     margin: 7px 0;
     font-size: 20px;
   }
+
 footer nav ul li {
     display: inline;
   }
@@ -81,42 +81,81 @@ footer nav ul li a {
 .intro {
     font-size: 25px;
     text-align: left;
-}
+  }
 
 .intro p {
     text-align: right;
-}
+  }
    
 section {
-  padding: 60px;
-}
+    padding: 90px;
+  }
 
 .work h2 {
-  font-size: 40px;
-}
+    font-size: 40px;
+  }
 
-.work-1 img {
-  
-}
+
+
+.work-1 {
+    background-image: url("../images/hero-bg.jpeg");
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    width: 100%;
+    border: #024e76 5px solid;
+  }
+
+.work-1, .work-2, .work-3, .work-4, .work-5 h3, p {
+    color: #024e76;
+   }
+
+
 
 .work-2 {
-  float: right ;
-}
+    background-image: url("../images/node.jpeg");
+    height: 200px;
+    background-size: cover;
+    background-position: right;
+    position: relative;
+    width: 100%;
+    float: right ;
+    border: #024e76 5px solid;
+  
+  }
 
 .work-3 {
-  
-}
+    background-image: url("../images/calculator.jpeg");
+    height: 200px;
+    background-size: cover;
+    background-position: left;
+    position: relative;
+    width: 50%;
+  border: #024e76 5px solid;
+  }
 
 .work-4 {
-  float: right ;
-}
+    background-image: url("../images/puzzel.jpeg");
+    height: 200px;
+    background-size: cover;
+    background-position: right;
+    position: relative;
+    float: right ;
+    width: 50%;
+    border: #024e76 5px solid;
+  }
 
 .work-5 {
-  
-}
+    background-image: url("../images/download.png");
+    height: 200px;
+    background-size: cover;
+    background-position: left;
+    position: relative;
+    width: 50%;
+    border: #024e76 3px solid;
+  }
 
-.work img {
-  height: 200px;
-  width: 200px;
-}
+
+
    
