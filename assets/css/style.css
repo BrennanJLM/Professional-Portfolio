@@ -7,87 +7,79 @@
 body {
     color: rgb(36, 34, 34);
     font-family: Helvetica, Arial, sans-serif;
-}
+  }
 
 header {
     padding: 30px 45px;
     background-color: rgb(39, 37, 37);
+    
   }
 
-  header h1 {
-    
+header h1 {
     font-size: 34px;
     color: #9250fc;
-    
-    
   }
   
-  header a {
+header a {
     text-decoration: none;
     color: #5a65c9;
   }
   
-  header nav {
-    
+header nav {
     float: right;
     margin: 7px 0;
-    
   }
   
-
-  
-  header nav ul li {
+header nav ul li {
     display: inline ;
   }
-  header nav ul li a {
+  
+header nav ul li a {
     margin: 0 30px;
-    font-weight: lighter;
     font-size: 22px;
   }
   
- 
-
-  footer {
+footer {
     background: #ffffff;
     width: 100%;
     padding: 20px 16px;
   }
 
-  footer h2 {
+footer h2 {
     display: inline;
     color: #024e76;
     font-size: 30px;
     margin: 0;
   }
   
-  footer nav {
+footer nav {
     float: right;
     margin: 7px 0;
     font-size: 20px;
   }
-  footer nav ul li {
+footer nav ul li {
     display: inline;
   }
   
-  footer nav ul li a {
+footer nav ul li a {
     margin: 0 30px;
-    font-weight: lighter;
     font-size: 22px;
   }
   
-  
- 
-  .hero {
+.hero {
     background-image: url("../images/generic+banner.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
   }
-  .hero h2 {
+  
+.hero h2 {
     float:right;
   }
+
 .intro {
+    font-size: 25px;
     text-align: left;
 }
 
@@ -99,8 +91,32 @@ section {
   padding: 60px;
 }
 
+.work h2 {
+  font-size: 40px;
+}
+
+.work-1 img {
+  
+}
+
+.work-2 {
+  float: right ;
+}
+
+.work-3 {
+  
+}
+
+.work-4 {
+  float: right ;
+}
+
+.work-5 {
+  
+}
+
 .work img {
   height: 200px;
   width: 200px;
- }
+}
    
