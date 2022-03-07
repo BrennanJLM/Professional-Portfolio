@@ -1,5 +1,4 @@
 * {
-
   box-sizing: border-box;
   }
 
@@ -11,25 +10,20 @@ body {
 header {
     padding: 30px 0px;
     background-color: rgb(39, 37, 37);
-    
     display: flex;
     justify-content: space-between;
   }
 
 header h1   {
-  
     font-size: 40px;
     color: #024e76;
-   display: flex;
+    display: flex;
     padding: 10px 30px 10px 50px;
     align-items: center;
     justify-content: center;
     background-color: grey;
-   
-  
   }
 
-  
 header a {
     text-decoration: none;
     color: #5a65c9;
@@ -38,27 +32,22 @@ header a {
 header nav {
     float: right;
     margin: 7px 0;
-    
     width: 700px;
     height: 150px;
     display: flex;
-    
     align-items: center;
     justify-content: center;
   }
 
   header nav ul {
-    
     height: 100px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    
+    justify-content: center;  
   }
   
 header nav ul li {
     display: inline ;
-    
     height: 225px;
     display: flex;
     align-items: flex-end;
@@ -78,14 +67,11 @@ footer {
   }
 
 footer h2 {
-  
     display: inline;
     color: #024e76;
     font-size: 30px;
     border-right: solid 3px #024e76;
     padding: 10px 10px 10px 10px;
-    
-     
     
   }
   
@@ -228,4 +214,17 @@ article {
   padding: 45px;
 }
 
-   
+@media screen and (max-width: 980px) {
+
+ }
+  
+
+
+
+
+@media screen and (max-width: 768px) {
+ 
+}
+@media screen and (max-width: 575px) {
+
+}
