@@ -72,7 +72,6 @@ footer h2 {
     font-size: 30px;
     border-right: solid 3px #024e76;
     padding: 10px 10px 10px 10px;
-    
   }
   
 footer nav {
@@ -99,9 +98,9 @@ footer nav ul li a {
     border-bottom: #024e76 solid 3px;
   }
 
-.hero img{
- width: 18%;
-}
+.hero img {
+    width: 18%;
+  }
   
 .hero h2 {
     float:right;
@@ -109,40 +108,29 @@ footer nav ul li a {
 
 
 .intro {
-    
     text-align: center;
-    
-  color: #024e76;
-  font-size: 30px;
-  
-  
+    color: #024e76;
+    font-size: 30px;
   }
 
 .intro p {
-    
     border-top: #024e76 solid 3px;
     justify-content: center;
     display: flex;
-    
   }
 
-   
 section {
     padding: 90px;
   }
 
 .work h2 {
-  display: flex;
-  color: #024e76;
-  font-size: 45px;
-  justify-content: center;
-  align-items: center;
-  border-bottom: #024e76 solid 3px;
-  
-  
+    display: flex;
+    color: #024e76;
+    font-size: 45px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: #024e76 solid 3px;
   }
-
-
 
 .work-1 {
     background-image: url("../images/hero-bg.jpeg");
@@ -156,18 +144,14 @@ section {
   }
 
   .work-1 h3 {
-    
     font: black;
-    
   }
 
 .work-1, .work-2, .work-3, .work-4, .work-5 h3, p {
     color: #024e76;
    }
 
-
-
-.work-2 {
+   .work-2 {
     background-image: url("../images/node.jpeg");
     height: 200px;
     background-size: cover;
@@ -216,12 +200,7 @@ article {
 
 @media screen and (max-width: 980px) {
 
- }
-  
-
-
-
-
+}
 @media screen and (max-width: 768px) {
  
 }
